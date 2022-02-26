@@ -17,7 +17,7 @@
 
 **This is skill page of the website**
 
-<img src="img/skill.png" width=600 height=450>
+<img src="img/skills.png" width=600 height=450>
 
 
 **This is contact page of the website**
